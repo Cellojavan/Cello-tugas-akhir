@@ -6,7 +6,7 @@
                         <div class="d-flex align-items-center mb-4">
                             <img src="<?=base_url()?>dist/images/image-removebg-preview (32).png" class="img-fluid logo-image">
 
-                            <div class="d-flex flex-column">
+                            <div class="d-flex flex-column" id="contact">
                                 <strong class="logo-text">CODE</strong>
                                 <small class="logo-slogan">Learning Code</small>
                             </div>
